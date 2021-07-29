@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/F63ge306TW.gif' />
+<img src='http://g.recordit.co/9YdfbAxZTc.gif' />
 
 **Twitter Client** is a basic twitter app to read your tweets.
 
